@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumPractice.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumPractice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumPractice_main.iml" group="seleniumPractice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumPractice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumPractice_test.iml" group="seleniumPractice" />
+    </modules>
+  </component>
+</project>
